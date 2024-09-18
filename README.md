@@ -10,6 +10,7 @@
 
 ### 📕 Latest Blog Posts
 
+- [Android WebSocket with Ktor](https://medium.com/@suatzengin/android-websocket-with-ktor-server-client-d28b37cd38a4)
 - [Ktor client for Android](https://medium.com/@suatzengin/ktor-client-for-android-7aa3082779a4)
 
 <h3 align="left">Languages and Tools:</h3>
